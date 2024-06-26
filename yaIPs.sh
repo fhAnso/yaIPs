@@ -24,4 +24,4 @@ done
 
 wait
 
-printf "\nDone"
+printf "\nDone\n"
